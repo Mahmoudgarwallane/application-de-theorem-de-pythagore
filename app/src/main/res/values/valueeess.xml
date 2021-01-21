@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ <string-array name="values" >
+  <item>BC</item>
+  <item>AC</item>
+  <item>AB</item>
+ </string-array>
+
+
+
+
+
+</resources>

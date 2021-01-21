@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Theorem de pythagore</string>
+    <string name="propri_t_directe_de_pythagore">propriété directe de pythagore</string>
+    <string name="propri_t_r_ciproque_de_pythagore">propriété réciproque de pythagore</string>
+    <string name="resultat">Resultat</string>
+    <string name="enter_un_nombre">enter un nombre!!</string>
+    <string name="le_resultat_est_copié">le resultat est copié</string>
+    <string name="ce_triangle_est_rectangle">ce triangle est rectangle</string>
+    <string name="pas_rectangle">ce triangle n\'est pas rectangle</string>
+    <string name="num_ro1">numéro1</string>
+    <string name="num_ro2">numéro2</string>
+    <string name="num_ro3">numéro3</string>
+    <string name="v_rifier">vérifier</string>
+</resources>

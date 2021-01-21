@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<dimen name="editText_margin_l">120dp</dimen>
+	<dimen name="margin_button">48dp</dimen>
+	<dimen name="layout_wit_linear">568.8dp</dimen>
+	<dimen name="img_height">540dp</dimen>
+	<dimen name="layout_heigh_linear">338.4dp</dimen>
+	<dimen name="img_with">873.6dp</dimen>
+	<dimen name="editText_margin_r">144dp</dimen>
+	<dimen name="text_size">72sp</dimen>
+	<dimen name="t_s">57.6sp</dimen>
+</resources>

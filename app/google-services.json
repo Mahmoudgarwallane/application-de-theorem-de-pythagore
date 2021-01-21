@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "292020790536",
+    "project_id": "theorem-de-pythagore",
+    "storage_bucket": "theorem-de-pythagore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292020790536:android:a1d78722983a84d025f8bd",
+        "android_client_info": {
+          "package_name": "com.example.android.theorem_de_pythagore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292020790536-ldfhac3009nr9jrj68tu3rhrle0njj8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWMgvatHQ6JHMNNmHpxOaTbkrNTc7mA6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292020790536-ldfhac3009nr9jrj68tu3rhrle0njj8u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

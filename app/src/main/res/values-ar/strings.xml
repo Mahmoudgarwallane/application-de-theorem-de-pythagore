@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">نظرية فيثاغورث</string>
+    <string name="propri_t_directe_de_pythagore">خاصية فيثاغورث المباشرة</string>
+    <string name="propri_t_r_ciproque_de_pythagore">خاصية فيثاغورث المتبادلة</string>
+    <string name="resultat">النتيجة</string>
+    <string name="enter_un_nombre">أدخل رقما</string>
+    <string name="le_resultat_est_copié">تم النسخ</string>
+    <string name="ce_triangle_est_rectangle">هذا المثلث قائم الزاوية</string>
+    <string name="pas_rectangle">هذا المثلث ليس قائم الزاوية</string>
+    <string name="num_ro1">الرقم1</string>
+    <string name="num_ro2">الرقم2</string>
+    <string name="num_ro3">الرقم3</string>
+    <string name="v_rifier">تأكد</string>
+</resources>
